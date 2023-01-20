@@ -1,0 +1,6 @@
+# May 20, 2019 - Customer insights from sales
+
+<aside>
+💡 **Notion Tip:** Create a new page for each set of notes from All Hands meetings so that anyone who missed it (or who joins after) can see what was discussed. You can copy the link and circulate it on Slack, email, etc.
+
+</aside>
