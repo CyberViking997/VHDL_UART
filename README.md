@@ -1,3 +1,0 @@
-# Integrated System Architecture
-
-[Lezioni](Integrated%20System%20Architecture%20c723ae1c8581493d9cad49326eaa4726/Lezioni%20da452f4ce7a946f49f71ca5540a0bc8d.csv)
